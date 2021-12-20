@@ -1,2 +1,2 @@
-# PRO_C49
-PRO C49
+# Autor:
+# Diego André Muñoz Rodríguez
