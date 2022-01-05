@@ -67,3 +67,11 @@ a:visited{
     opacity:0;
 }
 
+.item:hover p{
+    opacity: 1;
+}
+
+.item:hover img{
+    opacity: 0.33;
+} 
+
